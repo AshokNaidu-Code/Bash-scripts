@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-API_KEY="5f66487254ffc720ae5e7d64e68dfe48-e71583bb-4321a5b7"
+API_KEY="yourmailgun_api_key"
 DOMAIN="sandbox4b818b692de14ee2baffc415eb0cfc40.mailgun.org"
 RECIPIENT="ashoknallam03@gmail.com"
 SUBJECT="Network Traffic Alert"

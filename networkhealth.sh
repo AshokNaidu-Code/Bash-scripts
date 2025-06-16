@@ -8,7 +8,7 @@ LOG_FILE="/var/log/network_health.log"
 
 # Mailgun credentials and settings
 MAILGUN_DOMAIN="sandbox4b818b692de14ee2baffc415eb0cfc40.mailgun.org"           # e.g., sandbox12345.mailgun.o
-MAILGUN_API_KEY="5f66487254ffc720ae5e7d64e68dfe48-e71583bb-4321a5b7"              # e.g., key-xxxxxxxxxxxxxxx
+MAILGUN_API_KEY="your_mailgun_api_key"              # e.g., key-xxxxxxxxxxxxxxx
 MAILGUN_FROM="Network Monitor <monitor@sandbox4b818b692de14ee2baffc415eb0cfc40.mailgun.org>"
 MAILGUN_TO="ashoknallam03@gmail.com"
 
